@@ -1,7 +1,10 @@
-body {
-  background-color: white;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-App {
-  font-family: arial;
+body {
+  background-color: #dfdcdc;
+  font-family: monospace;
 }
