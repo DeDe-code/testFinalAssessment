@@ -5,6 +5,7 @@
 }
 
 body {
+  padding: 2rem;
   background-color: #dfdcdc;
   font-family: monospace;
 }
